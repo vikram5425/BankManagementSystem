@@ -1,22 +1,25 @@
-# Java Projects Collection 🚀
+# Banking Management System 🏦
 
-This repository contains multiple Java console-based applications demonstrating core programming and OOP concepts.
+A simple Java-based console application to simulate basic banking operations. This project helps in managing customer accounts and performing secure transactions.
 
-## Projects Included
-- 🏦 Bank Management System
-- 🧮 Calculator Application
-- 💬 Chat Client
-- 💱 Currency Converter
-- 🔐 File Cipher
-- 🧵 MultiThread Demo
+## 🚀 Features
+* Create a new bank account.
+* Deposit money into the account.
+* Withdraw money securely.
+* Check current account balance.
 
-## Concepts Used
-- OOP (Inheritance, Abstraction, Polymorphism)
-- Exception Handling
-- Collections (ArrayList)
-- Networking (Socket Programming)
-- Multithreading
-- File Handling
+## 🧠 Concepts Used
+* **Java Programming:** Core logic and execution.
+* **Object-Oriented Programming (OOP):** * **Encapsulation:** Securing user data and account balance.
+  * **Abstraction:** Hiding complex transaction logic from the user.
+  * **Inheritance & Polymorphism:** Structuring different account types and behaviors efficiently.
+
+## 🛠️ How to Run
+1. Clone this repository or download the `BankManagementSystem.java` file.
+2. Open your terminal or command prompt.
+3. Compile the Java file:
+   ```bash
+   javac BankManagementSystem.java
 
 ## Author
 Vikram
